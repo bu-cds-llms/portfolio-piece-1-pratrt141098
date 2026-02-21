@@ -4,7 +4,7 @@
 Predicts 30-day hospital readmission risk from de-identified discharge summaries (MIMIC-IV-Note). Demonstrates classical NLP, neural networks, and attention mechanismPredicts 30-day hospital readmission risk from de-identified dciPredicts 30-day hospital readmission s inPredicts 30-day hospital e readmissionsPredicts 30-day hospitLabPredictLaPredictsF-Predicts 30-day hospital readmission risklinePredicts 30-day hospital readmission risk from lizaPredicts 30-day hospital readmings +Predicts 30-day hospital readmission risk mapPredicts 30-day hospital readmissiontePredicts 30-day h------|Predicts --Predicts 30-d|
 Predicts 30-| Predicts 3turePredicts 30| Predicts 30-| Predi LPredictsesPr
 | | | | | | | | | | | | | | | | | | | | | | | |Ho| | | | | | `pip install -r requirements.txt`
-2. Download MIM2. Do-Note di2charge.csv2. Dowru2. Dos in noteb2. Down_d2.a_a2. Download MIM2. Do-Note di2charge.csv2. Dowru2. Dos ioks2. Download MIM2. Do-N†’ 2. Download MIM2. Do-Note di2charge.csv2. Dowru2. Dos in notessi2. Dabels (<10MB)
+2. Download MIM2. Do-Note di2charge.csv2. Dowru2. Dos in noteb2. Down_d2.a_a2. Download MIM2. Do-Note di2charge.csv2. Dowru2. Dos ioks2. Download MIM2. Do-Nï¿½ï¿½ 2. Download MIM2. Do-Note di2charge.csv2. Dowru2. Dos in notessi2. Dabels (<10MB)
 
 ## Repository Structure
 â”œâ”€â”€ README.md
@@ -19,3 +19,4 @@ Predicts 30-| Predicts 3turePredicts 30| Predicts 30-| Predi LPredictsesPr
 
 ## Acknowledgments
 Built on MIMIC-IV-Note dataset [PhysioNet].
+=======
