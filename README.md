@@ -2,7 +2,16 @@
 
 ## Project Overview
 
-This project implements multiple machine learning approaches to predict hospital readmission risk from clinical notes. The work demonstrates progression from classical NLP techniques through neural networks to attention-based models, achieving **perfect classification performance (AUC 1.000)** across all approaches.
+This project implements multiple machine learning approaches to predict hospital readmission risk from clinical notes. The work demonstrates progression from classical NLP techniques through neural networks to attention-based models, achieving **perfect classification performance (AUC 1.000)** across all approaches. 
+
+## Disclaimer
+
+This is a mockup of how the approach would work, however, we have used a synthetic mockup of clinical notes as I couldn't access the MIMIC data (needs credentialed access):
+            
+            "Patient discharged home in stable condition. Good prognosis with follow-up.",
+            "Recurrent CHF exacerbation. Poor medication compliance. High readmission risk.",
+            "Stable post-op. Discharged to rehab with family support.",
+            "Worsening renal failure. No outpatient nephrology arranged. Lives alone."
 
 **Author**: Pratik Tribhuwan
 ---
