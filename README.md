@@ -16,7 +16,12 @@ This is a mockup of how the approach would work, however, we have used a synthet
 **Author**: Pratik Tribhuwan
 ---
 
+<<<<<<< HEAD
 ## Results Summary
+=======
+## Repository Structure
+
+>>>>>>> 6352a69 (Update README)
 
 ### Model Performance
 
